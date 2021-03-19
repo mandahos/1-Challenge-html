@@ -7,41 +7,47 @@
 body {
     background-color: #d9dcd6;
 }
-
+/*header start/ search opt doesn't link?-why*/
 .header {
     padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
 .header h1 {
     display: inline-block;
     font-size: 48px;
-}
+    }
 
 .header h1 .seo {
     color: #d9dcd6;
 }
 
 .header nav {
-    padding-top: 15px;
-    margin-right: 20px;
-    float: right;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 20px;
-}
+    margin: 7px 0;
+  }
 
 .header nav ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
     list-style-type: none;
-
 }
 
-.header nav ul li {
+.header nav ul li a {
     display: inline-block;
     margin-left: 25px;
 }
 
+.header nav ul li a:hover {
+    display: inline-block;
+    margin-left: 25px;
+}
+/*header end*/
 a {
     color: #ffffff;
     text-decoration: none;
