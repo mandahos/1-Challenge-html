@@ -1,8 +1,16 @@
-# 1-Challenge-html
+# Horiseon 
 
-project is to style website with accesability in mind. 
+## Purpose
+A website that offers business optimization insight/training
 
-merged the CSS for the resources and benefit-side classes, to shorten and clean up code. 
+## Built With
+* HTML
+* CSS
 
-made nav bar work but updating the search-engine-optimization
+## Website
+https://lernantino.github.io/run-buddy/
 
+## Contribution
+Made with ❤️ by [your name]
+
+### ©️2019 Run Buddy, Inc 
