@@ -8,9 +8,9 @@ A website that offers business optimization insight/training
 * CSS
 
 ## Website
-https://lernantino.github.io/run-buddy/
+ https://mandahos.github.io/1-Challenge-html/
 
 ## Contribution
-Made with ❤️ by [your name]
+Made with ❤️ by Amanda Hoshor
 
-### ©️2019 Run Buddy, Inc 
+
