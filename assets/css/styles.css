@@ -102,6 +102,11 @@ p {
     text-align: center;
 }
 
+.benefit-side img {
+    max-height: 200px;
+    }
+
+
 .resources {
     margin-bottom: 20px;
     padding: 50px;
